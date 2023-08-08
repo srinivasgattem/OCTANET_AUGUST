@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80vw;
+}
+.navbar{
+    display: flex;
+height: 67px;
+font-family: 'Ubuntu', sans-serif;}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+.topleft{
+    width: 50%;
+    height: 50vh;
+}
+.topright{
+    width: 50%;
+    height: 50vh;
+}
+.section1{
+    height: 50vh;
+}
+.text-darkgreen{
+    color: darkgreen;
+}
+.logo{
+    font-size: 1.3rem;
+}
+.topright.farming{
+    width: 2px;
+}
